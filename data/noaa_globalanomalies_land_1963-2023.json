@@ -1,0 +1,3632 @@
+[
+    {
+        "anomaly": 0.04,
+        "month": 1,
+        "year": "1963"
+    },
+    {
+        "anomaly": 0.6,
+        "month": 2,
+        "year": "1963"
+    },
+    {
+        "anomaly": -0.44,
+        "month": 3,
+        "year": "1963"
+    },
+    {
+        "anomaly": -0.14,
+        "month": 4,
+        "year": "1963"
+    },
+    {
+        "anomaly": -0.3,
+        "month": 5,
+        "year": "1963"
+    },
+    {
+        "anomaly": 0.08,
+        "month": 6,
+        "year": "1963"
+    },
+    {
+        "anomaly": -0.1,
+        "month": 7,
+        "year": "1963"
+    },
+    {
+        "anomaly": 0.21,
+        "month": 8,
+        "year": "1963"
+    },
+    {
+        "anomaly": 0.16,
+        "month": 9,
+        "year": "1963"
+    },
+    {
+        "anomaly": 0.54,
+        "month": 10,
+        "year": "1963"
+    },
+    {
+        "anomaly": 0.38,
+        "month": 11,
+        "year": "1963"
+    },
+    {
+        "anomaly": -0.02,
+        "month": 12,
+        "year": "1963"
+    },
+    {
+        "anomaly": -0.32,
+        "month": 1,
+        "year": "1964"
+    },
+    {
+        "anomaly": -0.29,
+        "month": 2,
+        "year": "1964"
+    },
+    {
+        "anomaly": -0.35,
+        "month": 3,
+        "year": "1964"
+    },
+    {
+        "anomaly": -0.56,
+        "month": 4,
+        "year": "1964"
+    },
+    {
+        "anomaly": -0.33,
+        "month": 5,
+        "year": "1964"
+    },
+    {
+        "anomaly": -0.13,
+        "month": 6,
+        "year": "1964"
+    },
+    {
+        "anomaly": 0.0,
+        "month": 7,
+        "year": "1964"
+    },
+    {
+        "anomaly": -0.38,
+        "month": 8,
+        "year": "1964"
+    },
+    {
+        "anomaly": -0.26,
+        "month": 9,
+        "year": "1964"
+    },
+    {
+        "anomaly": -0.54,
+        "month": 10,
+        "year": "1964"
+    },
+    {
+        "anomaly": -0.22,
+        "month": 11,
+        "year": "1964"
+    },
+    {
+        "anomaly": -0.26,
+        "month": 12,
+        "year": "1964"
+    },
+    {
+        "anomaly": 0.0,
+        "month": 1,
+        "year": "1965"
+    },
+    {
+        "anomaly": -0.28,
+        "month": 2,
+        "year": "1965"
+    },
+    {
+        "anomaly": -0.15,
+        "month": 3,
+        "year": "1965"
+    },
+    {
+        "anomaly": -0.17,
+        "month": 4,
+        "year": "1965"
+    },
+    {
+        "anomaly": -0.46,
+        "month": 5,
+        "year": "1965"
+    },
+    {
+        "anomaly": -0.22,
+        "month": 6,
+        "year": "1965"
+    },
+    {
+        "anomaly": 0.02,
+        "month": 7,
+        "year": "1965"
+    },
+    {
+        "anomaly": -0.01,
+        "month": 8,
+        "year": "1965"
+    },
+    {
+        "anomaly": -0.32,
+        "month": 9,
+        "year": "1965"
+    },
+    {
+        "anomaly": 0.04,
+        "month": 10,
+        "year": "1965"
+    },
+    {
+        "anomaly": 0.09,
+        "month": 11,
+        "year": "1965"
+    },
+    {
+        "anomaly": -0.07,
+        "month": 12,
+        "year": "1965"
+    },
+    {
+        "anomaly": -0.51,
+        "month": 1,
+        "year": "1966"
+    },
+    {
+        "anomaly": -0.17,
+        "month": 2,
+        "year": "1966"
+    },
+    {
+        "anomaly": -0.14,
+        "month": 3,
+        "year": "1966"
+    },
+    {
+        "anomaly": -0.29,
+        "month": 4,
+        "year": "1966"
+    },
+    {
+        "anomaly": -0.28,
+        "month": 5,
+        "year": "1966"
+    },
+    {
+        "anomaly": 0.27,
+        "month": 6,
+        "year": "1966"
+    },
+    {
+        "anomaly": 0.14,
+        "month": 7,
+        "year": "1966"
+    },
+    {
+        "anomaly": -0.12,
+        "month": 8,
+        "year": "1966"
+    },
+    {
+        "anomaly": 0.15,
+        "month": 9,
+        "year": "1966"
+    },
+    {
+        "anomaly": -0.46,
+        "month": 10,
+        "year": "1966"
+    },
+    {
+        "anomaly": -0.05,
+        "month": 11,
+        "year": "1966"
+    },
+    {
+        "anomaly": -0.07,
+        "month": 12,
+        "year": "1966"
+    },
+    {
+        "anomaly": -0.31,
+        "month": 1,
+        "year": "1967"
+    },
+    {
+        "anomaly": -0.36,
+        "month": 2,
+        "year": "1967"
+    },
+    {
+        "anomaly": 0.19,
+        "month": 3,
+        "year": "1967"
+    },
+    {
+        "anomaly": 0.07,
+        "month": 4,
+        "year": "1967"
+    },
+    {
+        "anomaly": 0.52,
+        "month": 5,
+        "year": "1967"
+    },
+    {
+        "anomaly": -0.1,
+        "month": 6,
+        "year": "1967"
+    },
+    {
+        "anomaly": -0.19,
+        "month": 7,
+        "year": "1967"
+    },
+    {
+        "anomaly": 0.1,
+        "month": 8,
+        "year": "1967"
+    },
+    {
+        "anomaly": -0.12,
+        "month": 9,
+        "year": "1967"
+    },
+    {
+        "anomaly": 0.35,
+        "month": 10,
+        "year": "1967"
+    },
+    {
+        "anomaly": 0.01,
+        "month": 11,
+        "year": "1967"
+    },
+    {
+        "anomaly": 0.32,
+        "month": 12,
+        "year": "1967"
+    },
+    {
+        "anomaly": -0.29,
+        "month": 1,
+        "year": "1968"
+    },
+    {
+        "anomaly": -0.07,
+        "month": 2,
+        "year": "1968"
+    },
+    {
+        "anomaly": 0.8,
+        "month": 3,
+        "year": "1968"
+    },
+    {
+        "anomaly": -0.02,
+        "month": 4,
+        "year": "1968"
+    },
+    {
+        "anomaly": -0.49,
+        "month": 5,
+        "year": "1968"
+    },
+    {
+        "anomaly": -0.55,
+        "month": 6,
+        "year": "1968"
+    },
+    {
+        "anomaly": -0.25,
+        "month": 7,
+        "year": "1968"
+    },
+    {
+        "anomaly": -0.23,
+        "month": 8,
+        "year": "1968"
+    },
+    {
+        "anomaly": -0.52,
+        "month": 9,
+        "year": "1968"
+    },
+    {
+        "anomaly": -0.16,
+        "month": 10,
+        "year": "1968"
+    },
+    {
+        "anomaly": -0.46,
+        "month": 11,
+        "year": "1968"
+    },
+    {
+        "anomaly": -0.61,
+        "month": 12,
+        "year": "1968"
+    },
+    {
+        "anomaly": -0.83,
+        "month": 1,
+        "year": "1969"
+    },
+    {
+        "anomaly": -0.86,
+        "month": 2,
+        "year": "1969"
+    },
+    {
+        "anomaly": -0.29,
+        "month": 3,
+        "year": "1969"
+    },
+    {
+        "anomaly": -0.2,
+        "month": 4,
+        "year": "1969"
+    },
+    {
+        "anomaly": -0.01,
+        "month": 5,
+        "year": "1969"
+    },
+    {
+        "anomaly": -0.3,
+        "month": 6,
+        "year": "1969"
+    },
+    {
+        "anomaly": 0.09,
+        "month": 7,
+        "year": "1969"
+    },
+    {
+        "anomaly": -0.02,
+        "month": 8,
+        "year": "1969"
+    },
+    {
+        "anomaly": 0.1,
+        "month": 9,
+        "year": "1969"
+    },
+    {
+        "anomaly": 0.02,
+        "month": 10,
+        "year": "1969"
+    },
+    {
+        "anomaly": 0.2,
+        "month": 11,
+        "year": "1969"
+    },
+    {
+        "anomaly": 0.67,
+        "month": 12,
+        "year": "1969"
+    },
+    {
+        "anomaly": 0.09,
+        "month": 1,
+        "year": "1970"
+    },
+    {
+        "anomaly": 0.39,
+        "month": 2,
+        "year": "1970"
+    },
+    {
+        "anomaly": -0.04,
+        "month": 3,
+        "year": "1970"
+    },
+    {
+        "anomaly": -0.02,
+        "month": 4,
+        "year": "1970"
+    },
+    {
+        "anomaly": -0.02,
+        "month": 5,
+        "year": "1970"
+    },
+    {
+        "anomaly": 0.11,
+        "month": 6,
+        "year": "1970"
+    },
+    {
+        "anomaly": 0.1,
+        "month": 7,
+        "year": "1970"
+    },
+    {
+        "anomaly": -0.01,
+        "month": 8,
+        "year": "1970"
+    },
+    {
+        "anomaly": 0.05,
+        "month": 9,
+        "year": "1970"
+    },
+    {
+        "anomaly": -0.28,
+        "month": 10,
+        "year": "1970"
+    },
+    {
+        "anomaly": 0.0,
+        "month": 11,
+        "year": "1970"
+    },
+    {
+        "anomaly": -0.3,
+        "month": 12,
+        "year": "1970"
+    },
+    {
+        "anomaly": -0.06,
+        "month": 1,
+        "year": "1971"
+    },
+    {
+        "anomaly": -0.27,
+        "month": 2,
+        "year": "1971"
+    },
+    {
+        "anomaly": -0.07,
+        "month": 3,
+        "year": "1971"
+    },
+    {
+        "anomaly": -0.19,
+        "month": 4,
+        "year": "1971"
+    },
+    {
+        "anomaly": -0.04,
+        "month": 5,
+        "year": "1971"
+    },
+    {
+        "anomaly": -0.08,
+        "month": 6,
+        "year": "1971"
+    },
+    {
+        "anomaly": 0.0,
+        "month": 7,
+        "year": "1971"
+    },
+    {
+        "anomaly": -0.04,
+        "month": 8,
+        "year": "1971"
+    },
+    {
+        "anomaly": 0.21,
+        "month": 9,
+        "year": "1971"
+    },
+    {
+        "anomaly": -0.09,
+        "month": 10,
+        "year": "1971"
+    },
+    {
+        "anomaly": 0.04,
+        "month": 11,
+        "year": "1971"
+    },
+    {
+        "anomaly": 0.08,
+        "month": 12,
+        "year": "1971"
+    },
+    {
+        "anomaly": -0.76,
+        "month": 1,
+        "year": "1972"
+    },
+    {
+        "anomaly": -0.69,
+        "month": 2,
+        "year": "1972"
+    },
+    {
+        "anomaly": 0.13,
+        "month": 3,
+        "year": "1972"
+    },
+    {
+        "anomaly": -0.06,
+        "month": 4,
+        "year": "1972"
+    },
+    {
+        "anomaly": -0.1,
+        "month": 5,
+        "year": "1972"
+    },
+    {
+        "anomaly": 0.03,
+        "month": 6,
+        "year": "1972"
+    },
+    {
+        "anomaly": -0.07,
+        "month": 7,
+        "year": "1972"
+    },
+    {
+        "anomaly": 0.03,
+        "month": 8,
+        "year": "1972"
+    },
+    {
+        "anomaly": -0.19,
+        "month": 9,
+        "year": "1972"
+    },
+    {
+        "anomaly": -0.02,
+        "month": 10,
+        "year": "1972"
+    },
+    {
+        "anomaly": -0.29,
+        "month": 11,
+        "year": "1972"
+    },
+    {
+        "anomaly": -0.23,
+        "month": 12,
+        "year": "1972"
+    },
+    {
+        "anomaly": 0.47,
+        "month": 1,
+        "year": "1973"
+    },
+    {
+        "anomaly": 0.62,
+        "month": 2,
+        "year": "1973"
+    },
+    {
+        "anomaly": 0.61,
+        "month": 3,
+        "year": "1973"
+    },
+    {
+        "anomaly": 0.46,
+        "month": 4,
+        "year": "1973"
+    },
+    {
+        "anomaly": 0.31,
+        "month": 5,
+        "year": "1973"
+    },
+    {
+        "anomaly": 0.46,
+        "month": 6,
+        "year": "1973"
+    },
+    {
+        "anomaly": 0.18,
+        "month": 7,
+        "year": "1973"
+    },
+    {
+        "anomaly": 0.17,
+        "month": 8,
+        "year": "1973"
+    },
+    {
+        "anomaly": 0.06,
+        "month": 9,
+        "year": "1973"
+    },
+    {
+        "anomaly": 0.0,
+        "month": 10,
+        "year": "1973"
+    },
+    {
+        "anomaly": -0.03,
+        "month": 11,
+        "year": "1973"
+    },
+    {
+        "anomaly": 0.27,
+        "month": 12,
+        "year": "1973"
+    },
+    {
+        "anomaly": -0.19,
+        "month": 1,
+        "year": "1974"
+    },
+    {
+        "anomaly": -0.61,
+        "month": 2,
+        "year": "1974"
+    },
+    {
+        "anomaly": 0.17,
+        "month": 3,
+        "year": "1974"
+    },
+    {
+        "anomaly": 0.01,
+        "month": 4,
+        "year": "1974"
+    },
+    {
+        "anomaly": -0.05,
+        "month": 5,
+        "year": "1974"
+    },
+    {
+        "anomaly": -0.14,
+        "month": 6,
+        "year": "1974"
+    },
+    {
+        "anomaly": 0.1,
+        "month": 7,
+        "year": "1974"
+    },
+    {
+        "anomaly": 0.01,
+        "month": 8,
+        "year": "1974"
+    },
+    {
+        "anomaly": -0.14,
+        "month": 9,
+        "year": "1974"
+    },
+    {
+        "anomaly": -0.26,
+        "month": 10,
+        "year": "1974"
+    },
+    {
+        "anomaly": -0.33,
+        "month": 11,
+        "year": "1974"
+    },
+    {
+        "anomaly": -0.2,
+        "month": 12,
+        "year": "1974"
+    },
+    {
+        "anomaly": 0.09,
+        "month": 1,
+        "year": "1975"
+    },
+    {
+        "anomaly": 0.18,
+        "month": 2,
+        "year": "1975"
+    },
+    {
+        "anomaly": 0.32,
+        "month": 3,
+        "year": "1975"
+    },
+    {
+        "anomaly": 0.31,
+        "month": 4,
+        "year": "1975"
+    },
+    {
+        "anomaly": 0.19,
+        "month": 5,
+        "year": "1975"
+    },
+    {
+        "anomaly": 0.17,
+        "month": 6,
+        "year": "1975"
+    },
+    {
+        "anomaly": 0.07,
+        "month": 7,
+        "year": "1975"
+    },
+    {
+        "anomaly": -0.06,
+        "month": 8,
+        "year": "1975"
+    },
+    {
+        "anomaly": 0.13,
+        "month": 9,
+        "year": "1975"
+    },
+    {
+        "anomaly": -0.18,
+        "month": 10,
+        "year": "1975"
+    },
+    {
+        "anomaly": -0.27,
+        "month": 11,
+        "year": "1975"
+    },
+    {
+        "anomaly": 0.04,
+        "month": 12,
+        "year": "1975"
+    },
+    {
+        "anomaly": 0.21,
+        "month": 1,
+        "year": "1976"
+    },
+    {
+        "anomaly": -0.13,
+        "month": 2,
+        "year": "1976"
+    },
+    {
+        "anomaly": -0.28,
+        "month": 3,
+        "year": "1976"
+    },
+    {
+        "anomaly": 0.2,
+        "month": 4,
+        "year": "1976"
+    },
+    {
+        "anomaly": -0.21,
+        "month": 5,
+        "year": "1976"
+    },
+    {
+        "anomaly": -0.17,
+        "month": 6,
+        "year": "1976"
+    },
+    {
+        "anomaly": -0.16,
+        "month": 7,
+        "year": "1976"
+    },
+    {
+        "anomaly": -0.1,
+        "month": 8,
+        "year": "1976"
+    },
+    {
+        "anomaly": 0.03,
+        "month": 9,
+        "year": "1976"
+    },
+    {
+        "anomaly": -0.77,
+        "month": 10,
+        "year": "1976"
+    },
+    {
+        "anomaly": -0.46,
+        "month": 11,
+        "year": "1976"
+    },
+    {
+        "anomaly": -0.18,
+        "month": 12,
+        "year": "1976"
+    },
+    {
+        "anomaly": -0.07,
+        "month": 1,
+        "year": "1977"
+    },
+    {
+        "anomaly": 0.06,
+        "month": 2,
+        "year": "1977"
+    },
+    {
+        "anomaly": 0.28,
+        "month": 3,
+        "year": "1977"
+    },
+    {
+        "anomaly": 0.43,
+        "month": 4,
+        "year": "1977"
+    },
+    {
+        "anomaly": 0.45,
+        "month": 5,
+        "year": "1977"
+    },
+    {
+        "anomaly": 0.39,
+        "month": 6,
+        "year": "1977"
+    },
+    {
+        "anomaly": 0.2,
+        "month": 7,
+        "year": "1977"
+    },
+    {
+        "anomaly": 0.15,
+        "month": 8,
+        "year": "1977"
+    },
+    {
+        "anomaly": 0.18,
+        "month": 9,
+        "year": "1977"
+    },
+    {
+        "anomaly": -0.08,
+        "month": 10,
+        "year": "1977"
+    },
+    {
+        "anomaly": 0.42,
+        "month": 11,
+        "year": "1977"
+    },
+    {
+        "anomaly": 0.07,
+        "month": 12,
+        "year": "1977"
+    },
+    {
+        "anomaly": 0.1,
+        "month": 1,
+        "year": "1978"
+    },
+    {
+        "anomaly": 0.14,
+        "month": 2,
+        "year": "1978"
+    },
+    {
+        "anomaly": 0.37,
+        "month": 3,
+        "year": "1978"
+    },
+    {
+        "anomaly": 0.18,
+        "month": 4,
+        "year": "1978"
+    },
+    {
+        "anomaly": 0.06,
+        "month": 5,
+        "year": "1978"
+    },
+    {
+        "anomaly": -0.17,
+        "month": 6,
+        "year": "1978"
+    },
+    {
+        "anomaly": -0.07,
+        "month": 7,
+        "year": "1978"
+    },
+    {
+        "anomaly": -0.22,
+        "month": 8,
+        "year": "1978"
+    },
+    {
+        "anomaly": 0.05,
+        "month": 9,
+        "year": "1978"
+    },
+    {
+        "anomaly": -0.03,
+        "month": 10,
+        "year": "1978"
+    },
+    {
+        "anomaly": 0.31,
+        "month": 11,
+        "year": "1978"
+    },
+    {
+        "anomaly": -0.07,
+        "month": 12,
+        "year": "1978"
+    },
+    {
+        "anomaly": -0.08,
+        "month": 1,
+        "year": "1979"
+    },
+    {
+        "anomaly": -0.66,
+        "month": 2,
+        "year": "1979"
+    },
+    {
+        "anomaly": 0.11,
+        "month": 3,
+        "year": "1979"
+    },
+    {
+        "anomaly": -0.27,
+        "month": 4,
+        "year": "1979"
+    },
+    {
+        "anomaly": 0.06,
+        "month": 5,
+        "year": "1979"
+    },
+    {
+        "anomaly": 0.11,
+        "month": 6,
+        "year": "1979"
+    },
+    {
+        "anomaly": 0.19,
+        "month": 7,
+        "year": "1979"
+    },
+    {
+        "anomaly": 0.19,
+        "month": 8,
+        "year": "1979"
+    },
+    {
+        "anomaly": 0.24,
+        "month": 9,
+        "year": "1979"
+    },
+    {
+        "anomaly": 0.34,
+        "month": 10,
+        "year": "1979"
+    },
+    {
+        "anomaly": 0.29,
+        "month": 11,
+        "year": "1979"
+    },
+    {
+        "anomaly": 0.8,
+        "month": 12,
+        "year": "1979"
+    },
+    {
+        "anomaly": 0.27,
+        "month": 1,
+        "year": "1980"
+    },
+    {
+        "anomaly": 0.59,
+        "month": 2,
+        "year": "1980"
+    },
+    {
+        "anomaly": 0.18,
+        "month": 3,
+        "year": "1980"
+    },
+    {
+        "anomaly": 0.35,
+        "month": 4,
+        "year": "1980"
+    },
+    {
+        "anomaly": 0.49,
+        "month": 5,
+        "year": "1980"
+    },
+    {
+        "anomaly": 0.24,
+        "month": 6,
+        "year": "1980"
+    },
+    {
+        "anomaly": 0.26,
+        "month": 7,
+        "year": "1980"
+    },
+    {
+        "anomaly": 0.24,
+        "month": 8,
+        "year": "1980"
+    },
+    {
+        "anomaly": 0.14,
+        "month": 9,
+        "year": "1980"
+    },
+    {
+        "anomaly": 0.27,
+        "month": 10,
+        "year": "1980"
+    },
+    {
+        "anomaly": 0.34,
+        "month": 11,
+        "year": "1980"
+    },
+    {
+        "anomaly": 0.19,
+        "month": 12,
+        "year": "1980"
+    },
+    {
+        "anomaly": 1.24,
+        "month": 1,
+        "year": "1981"
+    },
+    {
+        "anomaly": 0.9,
+        "month": 2,
+        "year": "1981"
+    },
+    {
+        "anomaly": 0.85,
+        "month": 3,
+        "year": "1981"
+    },
+    {
+        "anomaly": 0.64,
+        "month": 4,
+        "year": "1981"
+    },
+    {
+        "anomaly": 0.42,
+        "month": 5,
+        "year": "1981"
+    },
+    {
+        "anomaly": 0.37,
+        "month": 6,
+        "year": "1981"
+    },
+    {
+        "anomaly": 0.22,
+        "month": 7,
+        "year": "1981"
+    },
+    {
+        "anomaly": 0.4,
+        "month": 8,
+        "year": "1981"
+    },
+    {
+        "anomaly": 0.22,
+        "month": 9,
+        "year": "1981"
+    },
+    {
+        "anomaly": 0.28,
+        "month": 10,
+        "year": "1981"
+    },
+    {
+        "anomaly": 0.48,
+        "month": 11,
+        "year": "1981"
+    },
+    {
+        "anomaly": 0.74,
+        "month": 12,
+        "year": "1981"
+    },
+    {
+        "anomaly": -0.25,
+        "month": 1,
+        "year": "1982"
+    },
+    {
+        "anomaly": 0.21,
+        "month": 2,
+        "year": "1982"
+    },
+    {
+        "anomaly": -0.06,
+        "month": 3,
+        "year": "1982"
+    },
+    {
+        "anomaly": 0.24,
+        "month": 4,
+        "year": "1982"
+    },
+    {
+        "anomaly": 0.03,
+        "month": 5,
+        "year": "1982"
+    },
+    {
+        "anomaly": 0.0,
+        "month": 6,
+        "year": "1982"
+    },
+    {
+        "anomaly": 0.24,
+        "month": 7,
+        "year": "1982"
+    },
+    {
+        "anomaly": 0.09,
+        "month": 8,
+        "year": "1982"
+    },
+    {
+        "anomaly": 0.12,
+        "month": 9,
+        "year": "1982"
+    },
+    {
+        "anomaly": -0.11,
+        "month": 10,
+        "year": "1982"
+    },
+    {
+        "anomaly": -0.28,
+        "month": 11,
+        "year": "1982"
+    },
+    {
+        "anomaly": 0.54,
+        "month": 12,
+        "year": "1982"
+    },
+    {
+        "anomaly": 0.72,
+        "month": 1,
+        "year": "1983"
+    },
+    {
+        "anomaly": 0.63,
+        "month": 2,
+        "year": "1983"
+    },
+    {
+        "anomaly": 0.64,
+        "month": 3,
+        "year": "1983"
+    },
+    {
+        "anomaly": 0.06,
+        "month": 4,
+        "year": "1983"
+    },
+    {
+        "anomaly": 0.18,
+        "month": 5,
+        "year": "1983"
+    },
+    {
+        "anomaly": 0.18,
+        "month": 6,
+        "year": "1983"
+    },
+    {
+        "anomaly": 0.32,
+        "month": 7,
+        "year": "1983"
+    },
+    {
+        "anomaly": 0.46,
+        "month": 8,
+        "year": "1983"
+    },
+    {
+        "anomaly": 0.46,
+        "month": 9,
+        "year": "1983"
+    },
+    {
+        "anomaly": 0.19,
+        "month": 10,
+        "year": "1983"
+    },
+    {
+        "anomaly": 0.66,
+        "month": 11,
+        "year": "1983"
+    },
+    {
+        "anomaly": 0.32,
+        "month": 12,
+        "year": "1983"
+    },
+    {
+        "anomaly": 0.45,
+        "month": 1,
+        "year": "1984"
+    },
+    {
+        "anomaly": 0.11,
+        "month": 2,
+        "year": "1984"
+    },
+    {
+        "anomaly": 0.35,
+        "month": 3,
+        "year": "1984"
+    },
+    {
+        "anomaly": -0.05,
+        "month": 4,
+        "year": "1984"
+    },
+    {
+        "anomaly": 0.58,
+        "month": 5,
+        "year": "1984"
+    },
+    {
+        "anomaly": 0.16,
+        "month": 6,
+        "year": "1984"
+    },
+    {
+        "anomaly": 0.1,
+        "month": 7,
+        "year": "1984"
+    },
+    {
+        "anomaly": 0.14,
+        "month": 8,
+        "year": "1984"
+    },
+    {
+        "anomaly": 0.0,
+        "month": 9,
+        "year": "1984"
+    },
+    {
+        "anomaly": 0.23,
+        "month": 10,
+        "year": "1984"
+    },
+    {
+        "anomaly": -0.06,
+        "month": 11,
+        "year": "1984"
+    },
+    {
+        "anomaly": -0.19,
+        "month": 12,
+        "year": "1984"
+    },
+    {
+        "anomaly": 0.5,
+        "month": 1,
+        "year": "1985"
+    },
+    {
+        "anomaly": -0.25,
+        "month": 2,
+        "year": "1985"
+    },
+    {
+        "anomaly": 0.42,
+        "month": 3,
+        "year": "1985"
+    },
+    {
+        "anomaly": 0.06,
+        "month": 4,
+        "year": "1985"
+    },
+    {
+        "anomaly": 0.28,
+        "month": 5,
+        "year": "1985"
+    },
+    {
+        "anomaly": 0.14,
+        "month": 6,
+        "year": "1985"
+    },
+    {
+        "anomaly": -0.08,
+        "month": 7,
+        "year": "1985"
+    },
+    {
+        "anomaly": 0.15,
+        "month": 8,
+        "year": "1985"
+    },
+    {
+        "anomaly": 0.05,
+        "month": 9,
+        "year": "1985"
+    },
+    {
+        "anomaly": 0.05,
+        "month": 10,
+        "year": "1985"
+    },
+    {
+        "anomaly": 0.06,
+        "month": 11,
+        "year": "1985"
+    },
+    {
+        "anomaly": 0.1,
+        "month": 12,
+        "year": "1985"
+    },
+    {
+        "anomaly": 0.34,
+        "month": 1,
+        "year": "1986"
+    },
+    {
+        "anomaly": 0.76,
+        "month": 2,
+        "year": "1986"
+    },
+    {
+        "anomaly": 0.66,
+        "month": 3,
+        "year": "1986"
+    },
+    {
+        "anomaly": 0.43,
+        "month": 4,
+        "year": "1986"
+    },
+    {
+        "anomaly": 0.66,
+        "month": 5,
+        "year": "1986"
+    },
+    {
+        "anomaly": 0.17,
+        "month": 6,
+        "year": "1986"
+    },
+    {
+        "anomaly": -0.09,
+        "month": 7,
+        "year": "1986"
+    },
+    {
+        "anomaly": -0.02,
+        "month": 8,
+        "year": "1986"
+    },
+    {
+        "anomaly": -0.44,
+        "month": 9,
+        "year": "1986"
+    },
+    {
+        "anomaly": -0.08,
+        "month": 10,
+        "year": "1986"
+    },
+    {
+        "anomaly": -0.13,
+        "month": 11,
+        "year": "1986"
+    },
+    {
+        "anomaly": -0.07,
+        "month": 12,
+        "year": "1986"
+    },
+    {
+        "anomaly": 0.34,
+        "month": 1,
+        "year": "1987"
+    },
+    {
+        "anomaly": 0.49,
+        "month": 2,
+        "year": "1987"
+    },
+    {
+        "anomaly": -0.26,
+        "month": 3,
+        "year": "1987"
+    },
+    {
+        "anomaly": -0.04,
+        "month": 4,
+        "year": "1987"
+    },
+    {
+        "anomaly": 0.27,
+        "month": 5,
+        "year": "1987"
+    },
+    {
+        "anomaly": 0.47,
+        "month": 6,
+        "year": "1987"
+    },
+    {
+        "anomaly": 0.58,
+        "month": 7,
+        "year": "1987"
+    },
+    {
+        "anomaly": 0.14,
+        "month": 8,
+        "year": "1987"
+    },
+    {
+        "anomaly": 0.27,
+        "month": 9,
+        "year": "1987"
+    },
+    {
+        "anomaly": 0.16,
+        "month": 10,
+        "year": "1987"
+    },
+    {
+        "anomaly": -0.2,
+        "month": 11,
+        "year": "1987"
+    },
+    {
+        "anomaly": 0.63,
+        "month": 12,
+        "year": "1987"
+    },
+    {
+        "anomaly": 0.65,
+        "month": 1,
+        "year": "1988"
+    },
+    {
+        "anomaly": 0.46,
+        "month": 2,
+        "year": "1988"
+    },
+    {
+        "anomaly": 0.51,
+        "month": 3,
+        "year": "1988"
+    },
+    {
+        "anomaly": 0.58,
+        "month": 4,
+        "year": "1988"
+    },
+    {
+        "anomaly": 0.76,
+        "month": 5,
+        "year": "1988"
+    },
+    {
+        "anomaly": 0.59,
+        "month": 6,
+        "year": "1988"
+    },
+    {
+        "anomaly": 0.56,
+        "month": 7,
+        "year": "1988"
+    },
+    {
+        "anomaly": 0.93,
+        "month": 8,
+        "year": "1988"
+    },
+    {
+        "anomaly": 0.67,
+        "month": 9,
+        "year": "1988"
+    },
+    {
+        "anomaly": 0.69,
+        "month": 10,
+        "year": "1988"
+    },
+    {
+        "anomaly": 0.1,
+        "month": 11,
+        "year": "1988"
+    },
+    {
+        "anomaly": 0.66,
+        "month": 12,
+        "year": "1988"
+    },
+    {
+        "anomaly": -0.09,
+        "month": 1,
+        "year": "1989"
+    },
+    {
+        "anomaly": 0.56,
+        "month": 2,
+        "year": "1989"
+    },
+    {
+        "anomaly": 0.65,
+        "month": 3,
+        "year": "1989"
+    },
+    {
+        "anomaly": 0.67,
+        "month": 4,
+        "year": "1989"
+    },
+    {
+        "anomaly": 0.19,
+        "month": 5,
+        "year": "1989"
+    },
+    {
+        "anomaly": 0.24,
+        "month": 6,
+        "year": "1989"
+    },
+    {
+        "anomaly": 0.32,
+        "month": 7,
+        "year": "1989"
+    },
+    {
+        "anomaly": 0.29,
+        "month": 8,
+        "year": "1989"
+    },
+    {
+        "anomaly": 0.53,
+        "month": 9,
+        "year": "1989"
+    },
+    {
+        "anomaly": 0.49,
+        "month": 10,
+        "year": "1989"
+    },
+    {
+        "anomaly": -0.04,
+        "month": 11,
+        "year": "1989"
+    },
+    {
+        "anomaly": 0.66,
+        "month": 12,
+        "year": "1989"
+    },
+    {
+        "anomaly": 0.6,
+        "month": 1,
+        "year": "1990"
+    },
+    {
+        "anomaly": 0.41,
+        "month": 2,
+        "year": "1990"
+    },
+    {
+        "anomaly": 1.6,
+        "month": 3,
+        "year": "1990"
+    },
+    {
+        "anomaly": 1.09,
+        "month": 4,
+        "year": "1990"
+    },
+    {
+        "anomaly": 0.73,
+        "month": 5,
+        "year": "1990"
+    },
+    {
+        "anomaly": 0.51,
+        "month": 6,
+        "year": "1990"
+    },
+    {
+        "anomaly": 0.25,
+        "month": 7,
+        "year": "1990"
+    },
+    {
+        "anomaly": 0.39,
+        "month": 8,
+        "year": "1990"
+    },
+    {
+        "anomaly": 0.21,
+        "month": 9,
+        "year": "1990"
+    },
+    {
+        "anomaly": 0.47,
+        "month": 10,
+        "year": "1990"
+    },
+    {
+        "anomaly": 0.49,
+        "month": 11,
+        "year": "1990"
+    },
+    {
+        "anomaly": 0.55,
+        "month": 12,
+        "year": "1990"
+    },
+    {
+        "anomaly": 0.59,
+        "month": 1,
+        "year": "1991"
+    },
+    {
+        "anomaly": 0.92,
+        "month": 2,
+        "year": "1991"
+    },
+    {
+        "anomaly": 0.44,
+        "month": 3,
+        "year": "1991"
+    },
+    {
+        "anomaly": 0.95,
+        "month": 4,
+        "year": "1991"
+    },
+    {
+        "anomaly": 0.58,
+        "month": 5,
+        "year": "1991"
+    },
+    {
+        "anomaly": 0.89,
+        "month": 6,
+        "year": "1991"
+    },
+    {
+        "anomaly": 0.48,
+        "month": 7,
+        "year": "1991"
+    },
+    {
+        "anomaly": 0.44,
+        "month": 8,
+        "year": "1991"
+    },
+    {
+        "anomaly": 0.57,
+        "month": 9,
+        "year": "1991"
+    },
+    {
+        "anomaly": 0.48,
+        "month": 10,
+        "year": "1991"
+    },
+    {
+        "anomaly": 0.37,
+        "month": 11,
+        "year": "1991"
+    },
+    {
+        "anomaly": 0.42,
+        "month": 12,
+        "year": "1991"
+    },
+    {
+        "anomaly": 0.78,
+        "month": 1,
+        "year": "1992"
+    },
+    {
+        "anomaly": 0.66,
+        "month": 2,
+        "year": "1992"
+    },
+    {
+        "anomaly": 0.78,
+        "month": 3,
+        "year": "1992"
+    },
+    {
+        "anomaly": 0.01,
+        "month": 4,
+        "year": "1992"
+    },
+    {
+        "anomaly": 0.42,
+        "month": 5,
+        "year": "1992"
+    },
+    {
+        "anomaly": 0.12,
+        "month": 6,
+        "year": "1992"
+    },
+    {
+        "anomaly": -0.12,
+        "month": 7,
+        "year": "1992"
+    },
+    {
+        "anomaly": -0.07,
+        "month": 8,
+        "year": "1992"
+    },
+    {
+        "anomaly": -0.24,
+        "month": 9,
+        "year": "1992"
+    },
+    {
+        "anomaly": -0.28,
+        "month": 10,
+        "year": "1992"
+    },
+    {
+        "anomaly": -0.15,
+        "month": 11,
+        "year": "1992"
+    },
+    {
+        "anomaly": 0.31,
+        "month": 12,
+        "year": "1992"
+    },
+    {
+        "anomaly": 0.52,
+        "month": 1,
+        "year": "1993"
+    },
+    {
+        "anomaly": 0.67,
+        "month": 2,
+        "year": "1993"
+    },
+    {
+        "anomaly": 0.63,
+        "month": 3,
+        "year": "1993"
+    },
+    {
+        "anomaly": 0.51,
+        "month": 4,
+        "year": "1993"
+    },
+    {
+        "anomaly": 0.25,
+        "month": 5,
+        "year": "1993"
+    },
+    {
+        "anomaly": 0.29,
+        "month": 6,
+        "year": "1993"
+    },
+    {
+        "anomaly": 0.42,
+        "month": 7,
+        "year": "1993"
+    },
+    {
+        "anomaly": -0.16,
+        "month": 8,
+        "year": "1993"
+    },
+    {
+        "anomaly": 0.12,
+        "month": 9,
+        "year": "1993"
+    },
+    {
+        "anomaly": 0.19,
+        "month": 10,
+        "year": "1993"
+    },
+    {
+        "anomaly": -0.15,
+        "month": 11,
+        "year": "1993"
+    },
+    {
+        "anomaly": 0.12,
+        "month": 12,
+        "year": "1993"
+    },
+    {
+        "anomaly": 0.23,
+        "month": 1,
+        "year": "1994"
+    },
+    {
+        "anomaly": -0.3,
+        "month": 2,
+        "year": "1994"
+    },
+    {
+        "anomaly": 0.4,
+        "month": 3,
+        "year": "1994"
+    },
+    {
+        "anomaly": 0.68,
+        "month": 4,
+        "year": "1994"
+    },
+    {
+        "anomaly": 0.34,
+        "month": 5,
+        "year": "1994"
+    },
+    {
+        "anomaly": 0.7,
+        "month": 6,
+        "year": "1994"
+    },
+    {
+        "anomaly": 0.34,
+        "month": 7,
+        "year": "1994"
+    },
+    {
+        "anomaly": 0.2,
+        "month": 8,
+        "year": "1994"
+    },
+    {
+        "anomaly": 0.27,
+        "month": 9,
+        "year": "1994"
+    },
+    {
+        "anomaly": 0.69,
+        "month": 10,
+        "year": "1994"
+    },
+    {
+        "anomaly": 0.52,
+        "month": 11,
+        "year": "1994"
+    },
+    {
+        "anomaly": 0.44,
+        "month": 12,
+        "year": "1994"
+    },
+    {
+        "anomaly": 0.94,
+        "month": 1,
+        "year": "1995"
+    },
+    {
+        "anomaly": 1.59,
+        "month": 2,
+        "year": "1995"
+    },
+    {
+        "anomaly": 0.75,
+        "month": 3,
+        "year": "1995"
+    },
+    {
+        "anomaly": 0.88,
+        "month": 4,
+        "year": "1995"
+    },
+    {
+        "anomaly": 0.35,
+        "month": 5,
+        "year": "1995"
+    },
+    {
+        "anomaly": 0.82,
+        "month": 6,
+        "year": "1995"
+    },
+    {
+        "anomaly": 0.59,
+        "month": 7,
+        "year": "1995"
+    },
+    {
+        "anomaly": 0.77,
+        "month": 8,
+        "year": "1995"
+    },
+    {
+        "anomaly": 0.74,
+        "month": 9,
+        "year": "1995"
+    },
+    {
+        "anomaly": 0.73,
+        "month": 10,
+        "year": "1995"
+    },
+    {
+        "anomaly": 0.81,
+        "month": 11,
+        "year": "1995"
+    },
+    {
+        "anomaly": 0.41,
+        "month": 12,
+        "year": "1995"
+    },
+    {
+        "anomaly": 0.31,
+        "month": 1,
+        "year": "1996"
+    },
+    {
+        "anomaly": 0.84,
+        "month": 2,
+        "year": "1996"
+    },
+    {
+        "anomaly": 0.44,
+        "month": 3,
+        "year": "1996"
+    },
+    {
+        "anomaly": 0.45,
+        "month": 4,
+        "year": "1996"
+    },
+    {
+        "anomaly": 0.38,
+        "month": 5,
+        "year": "1996"
+    },
+    {
+        "anomaly": 0.42,
+        "month": 6,
+        "year": "1996"
+    },
+    {
+        "anomaly": 0.46,
+        "month": 7,
+        "year": "1996"
+    },
+    {
+        "anomaly": 0.62,
+        "month": 8,
+        "year": "1996"
+    },
+    {
+        "anomaly": 0.19,
+        "month": 9,
+        "year": "1996"
+    },
+    {
+        "anomaly": -0.05,
+        "month": 10,
+        "year": "1996"
+    },
+    {
+        "anomaly": 0.76,
+        "month": 11,
+        "year": "1996"
+    },
+    {
+        "anomaly": 0.51,
+        "month": 12,
+        "year": "1996"
+    },
+    {
+        "anomaly": 0.28,
+        "month": 1,
+        "year": "1997"
+    },
+    {
+        "anomaly": 0.48,
+        "month": 2,
+        "year": "1997"
+    },
+    {
+        "anomaly": 0.81,
+        "month": 3,
+        "year": "1997"
+    },
+    {
+        "anomaly": 0.53,
+        "month": 4,
+        "year": "1997"
+    },
+    {
+        "anomaly": 0.41,
+        "month": 5,
+        "year": "1997"
+    },
+    {
+        "anomaly": 0.72,
+        "month": 6,
+        "year": "1997"
+    },
+    {
+        "anomaly": 0.21,
+        "month": 7,
+        "year": "1997"
+    },
+    {
+        "anomaly": 0.36,
+        "month": 8,
+        "year": "1997"
+    },
+    {
+        "anomaly": 0.66,
+        "month": 9,
+        "year": "1997"
+    },
+    {
+        "anomaly": 0.92,
+        "month": 10,
+        "year": "1997"
+    },
+    {
+        "anomaly": 0.84,
+        "month": 11,
+        "year": "1997"
+    },
+    {
+        "anomaly": 0.56,
+        "month": 12,
+        "year": "1997"
+    },
+    {
+        "anomaly": 0.56,
+        "month": 1,
+        "year": "1998"
+    },
+    {
+        "anomaly": 1.3,
+        "month": 2,
+        "year": "1998"
+    },
+    {
+        "anomaly": 0.93,
+        "month": 3,
+        "year": "1998"
+    },
+    {
+        "anomaly": 0.95,
+        "month": 4,
+        "year": "1998"
+    },
+    {
+        "anomaly": 0.9,
+        "month": 5,
+        "year": "1998"
+    },
+    {
+        "anomaly": 1.11,
+        "month": 6,
+        "year": "1998"
+    },
+    {
+        "anomaly": 0.99,
+        "month": 7,
+        "year": "1998"
+    },
+    {
+        "anomaly": 0.99,
+        "month": 8,
+        "year": "1998"
+    },
+    {
+        "anomaly": 0.64,
+        "month": 9,
+        "year": "1998"
+    },
+    {
+        "anomaly": 0.51,
+        "month": 10,
+        "year": "1998"
+    },
+    {
+        "anomaly": 0.49,
+        "month": 11,
+        "year": "1998"
+    },
+    {
+        "anomaly": 1.02,
+        "month": 12,
+        "year": "1998"
+    },
+    {
+        "anomaly": 0.79,
+        "month": 1,
+        "year": "1999"
+    },
+    {
+        "anomaly": 1.31,
+        "month": 2,
+        "year": "1999"
+    },
+    {
+        "anomaly": 0.35,
+        "month": 3,
+        "year": "1999"
+    },
+    {
+        "anomaly": 0.37,
+        "month": 4,
+        "year": "1999"
+    },
+    {
+        "anomaly": 0.39,
+        "month": 5,
+        "year": "1999"
+    },
+    {
+        "anomaly": 0.48,
+        "month": 6,
+        "year": "1999"
+    },
+    {
+        "anomaly": 0.65,
+        "month": 7,
+        "year": "1999"
+    },
+    {
+        "anomaly": 0.44,
+        "month": 8,
+        "year": "1999"
+    },
+    {
+        "anomaly": 0.84,
+        "month": 9,
+        "year": "1999"
+    },
+    {
+        "anomaly": 0.64,
+        "month": 10,
+        "year": "1999"
+    },
+    {
+        "anomaly": 0.67,
+        "month": 11,
+        "year": "1999"
+    },
+    {
+        "anomaly": 0.9,
+        "month": 12,
+        "year": "1999"
+    },
+    {
+        "anomaly": 0.47,
+        "month": 1,
+        "year": "2000"
+    },
+    {
+        "anomaly": 1.07,
+        "month": 2,
+        "year": "2000"
+    },
+    {
+        "anomaly": 1.14,
+        "month": 3,
+        "year": "2000"
+    },
+    {
+        "anomaly": 1.19,
+        "month": 4,
+        "year": "2000"
+    },
+    {
+        "anomaly": 0.56,
+        "month": 5,
+        "year": "2000"
+    },
+    {
+        "anomaly": 0.54,
+        "month": 6,
+        "year": "2000"
+    },
+    {
+        "anomaly": 0.6,
+        "month": 7,
+        "year": "2000"
+    },
+    {
+        "anomaly": 0.68,
+        "month": 8,
+        "year": "2000"
+    },
+    {
+        "anomaly": 0.55,
+        "month": 9,
+        "year": "2000"
+    },
+    {
+        "anomaly": 0.28,
+        "month": 10,
+        "year": "2000"
+    },
+    {
+        "anomaly": 0.32,
+        "month": 11,
+        "year": "2000"
+    },
+    {
+        "anomaly": 0.2,
+        "month": 12,
+        "year": "2000"
+    },
+    {
+        "anomaly": 0.61,
+        "month": 1,
+        "year": "2001"
+    },
+    {
+        "anomaly": 0.67,
+        "month": 2,
+        "year": "2001"
+    },
+    {
+        "anomaly": 0.84,
+        "month": 3,
+        "year": "2001"
+    },
+    {
+        "anomaly": 0.78,
+        "month": 4,
+        "year": "2001"
+    },
+    {
+        "anomaly": 0.84,
+        "month": 5,
+        "year": "2001"
+    },
+    {
+        "anomaly": 0.68,
+        "month": 6,
+        "year": "2001"
+    },
+    {
+        "anomaly": 0.9,
+        "month": 7,
+        "year": "2001"
+    },
+    {
+        "anomaly": 0.49,
+        "month": 8,
+        "year": "2001"
+    },
+    {
+        "anomaly": 0.83,
+        "month": 9,
+        "year": "2001"
+    },
+    {
+        "anomaly": 0.45,
+        "month": 10,
+        "year": "2001"
+    },
+    {
+        "anomaly": 1.26,
+        "month": 11,
+        "year": "2001"
+    },
+    {
+        "anomaly": 1.01,
+        "month": 12,
+        "year": "2001"
+    },
+    {
+        "anomaly": 1.17,
+        "month": 1,
+        "year": "2002"
+    },
+    {
+        "anomaly": 1.19,
+        "month": 2,
+        "year": "2002"
+    },
+    {
+        "anomaly": 1.58,
+        "month": 3,
+        "year": "2002"
+    },
+    {
+        "anomaly": 0.68,
+        "month": 4,
+        "year": "2002"
+    },
+    {
+        "anomaly": 1.01,
+        "month": 5,
+        "year": "2002"
+    },
+    {
+        "anomaly": 0.57,
+        "month": 6,
+        "year": "2002"
+    },
+    {
+        "anomaly": 0.82,
+        "month": 7,
+        "year": "2002"
+    },
+    {
+        "anomaly": 0.72,
+        "month": 8,
+        "year": "2002"
+    },
+    {
+        "anomaly": 1.07,
+        "month": 9,
+        "year": "2002"
+    },
+    {
+        "anomaly": 0.77,
+        "month": 10,
+        "year": "2002"
+    },
+    {
+        "anomaly": 1.0,
+        "month": 11,
+        "year": "2002"
+    },
+    {
+        "anomaly": 0.52,
+        "month": 12,
+        "year": "2002"
+    },
+    {
+        "anomaly": 1.23,
+        "month": 1,
+        "year": "2003"
+    },
+    {
+        "anomaly": 0.79,
+        "month": 2,
+        "year": "2003"
+    },
+    {
+        "anomaly": 0.83,
+        "month": 3,
+        "year": "2003"
+    },
+    {
+        "anomaly": 0.91,
+        "month": 4,
+        "year": "2003"
+    },
+    {
+        "anomaly": 0.97,
+        "month": 5,
+        "year": "2003"
+    },
+    {
+        "anomaly": 0.58,
+        "month": 6,
+        "year": "2003"
+    },
+    {
+        "anomaly": 0.76,
+        "month": 7,
+        "year": "2003"
+    },
+    {
+        "anomaly": 0.69,
+        "month": 8,
+        "year": "2003"
+    },
+    {
+        "anomaly": 0.88,
+        "month": 9,
+        "year": "2003"
+    },
+    {
+        "anomaly": 1.25,
+        "month": 10,
+        "year": "2003"
+    },
+    {
+        "anomaly": 0.67,
+        "month": 11,
+        "year": "2003"
+    },
+    {
+        "anomaly": 1.35,
+        "month": 12,
+        "year": "2003"
+    },
+    {
+        "anomaly": 0.78,
+        "month": 1,
+        "year": "2004"
+    },
+    {
+        "anomaly": 0.94,
+        "month": 2,
+        "year": "2004"
+    },
+    {
+        "anomaly": 1.01,
+        "month": 3,
+        "year": "2004"
+    },
+    {
+        "anomaly": 0.96,
+        "month": 4,
+        "year": "2004"
+    },
+    {
+        "anomaly": 0.41,
+        "month": 5,
+        "year": "2004"
+    },
+    {
+        "anomaly": 0.55,
+        "month": 6,
+        "year": "2004"
+    },
+    {
+        "anomaly": -0.01,
+        "month": 7,
+        "year": "2004"
+    },
+    {
+        "anomaly": 0.31,
+        "month": 8,
+        "year": "2004"
+    },
+    {
+        "anomaly": 0.57,
+        "month": 9,
+        "year": "2004"
+    },
+    {
+        "anomaly": 0.82,
+        "month": 10,
+        "year": "2004"
+    },
+    {
+        "anomaly": 1.2,
+        "month": 11,
+        "year": "2004"
+    },
+    {
+        "anomaly": 0.55,
+        "month": 12,
+        "year": "2004"
+    },
+    {
+        "anomaly": 1.33,
+        "month": 1,
+        "year": "2005"
+    },
+    {
+        "anomaly": 0.97,
+        "month": 2,
+        "year": "2005"
+    },
+    {
+        "anomaly": 1.35,
+        "month": 3,
+        "year": "2005"
+    },
+    {
+        "anomaly": 1.17,
+        "month": 4,
+        "year": "2005"
+    },
+    {
+        "anomaly": 1.09,
+        "month": 5,
+        "year": "2005"
+    },
+    {
+        "anomaly": 0.97,
+        "month": 6,
+        "year": "2005"
+    },
+    {
+        "anomaly": 0.9,
+        "month": 7,
+        "year": "2005"
+    },
+    {
+        "anomaly": 0.7,
+        "month": 8,
+        "year": "2005"
+    },
+    {
+        "anomaly": 1.22,
+        "month": 9,
+        "year": "2005"
+    },
+    {
+        "anomaly": 1.38,
+        "month": 10,
+        "year": "2005"
+    },
+    {
+        "anomaly": 1.56,
+        "month": 11,
+        "year": "2005"
+    },
+    {
+        "anomaly": 1.48,
+        "month": 12,
+        "year": "2005"
+    },
+    {
+        "anomaly": 1.07,
+        "month": 1,
+        "year": "2006"
+    },
+    {
+        "anomaly": 1.6,
+        "month": 2,
+        "year": "2006"
+    },
+    {
+        "anomaly": 1.2,
+        "month": 3,
+        "year": "2006"
+    },
+    {
+        "anomaly": 0.68,
+        "month": 4,
+        "year": "2006"
+    },
+    {
+        "anomaly": 0.61,
+        "month": 5,
+        "year": "2006"
+    },
+    {
+        "anomaly": 0.97,
+        "month": 6,
+        "year": "2006"
+    },
+    {
+        "anomaly": 0.64,
+        "month": 7,
+        "year": "2006"
+    },
+    {
+        "anomaly": 1.15,
+        "month": 8,
+        "year": "2006"
+    },
+    {
+        "anomaly": 1.04,
+        "month": 9,
+        "year": "2006"
+    },
+    {
+        "anomaly": 1.08,
+        "month": 10,
+        "year": "2006"
+    },
+    {
+        "anomaly": 1.13,
+        "month": 11,
+        "year": "2006"
+    },
+    {
+        "anomaly": 1.37,
+        "month": 12,
+        "year": "2006"
+    },
+    {
+        "anomaly": 1.86,
+        "month": 1,
+        "year": "2007"
+    },
+    {
+        "anomaly": 1.22,
+        "month": 2,
+        "year": "2007"
+    },
+    {
+        "anomaly": 1.27,
+        "month": 3,
+        "year": "2007"
+    },
+    {
+        "anomaly": 1.66,
+        "month": 4,
+        "year": "2007"
+    },
+    {
+        "anomaly": 1.18,
+        "month": 5,
+        "year": "2007"
+    },
+    {
+        "anomaly": 0.83,
+        "month": 6,
+        "year": "2007"
+    },
+    {
+        "anomaly": 0.93,
+        "month": 7,
+        "year": "2007"
+    },
+    {
+        "anomaly": 0.99,
+        "month": 8,
+        "year": "2007"
+    },
+    {
+        "anomaly": 1.1,
+        "month": 9,
+        "year": "2007"
+    },
+    {
+        "anomaly": 1.17,
+        "month": 10,
+        "year": "2007"
+    },
+    {
+        "anomaly": 1.24,
+        "month": 11,
+        "year": "2007"
+    },
+    {
+        "anomaly": 1.12,
+        "month": 12,
+        "year": "2007"
+    },
+    {
+        "anomaly": 0.33,
+        "month": 1,
+        "year": "2008"
+    },
+    {
+        "anomaly": 0.51,
+        "month": 2,
+        "year": "2008"
+    },
+    {
+        "anomaly": 1.65,
+        "month": 3,
+        "year": "2008"
+    },
+    {
+        "anomaly": 0.9,
+        "month": 4,
+        "year": "2008"
+    },
+    {
+        "anomaly": 0.85,
+        "month": 5,
+        "year": "2008"
+    },
+    {
+        "anomaly": 0.7,
+        "month": 6,
+        "year": "2008"
+    },
+    {
+        "anomaly": 0.79,
+        "month": 7,
+        "year": "2008"
+    },
+    {
+        "anomaly": 0.48,
+        "month": 8,
+        "year": "2008"
+    },
+    {
+        "anomaly": 0.98,
+        "month": 9,
+        "year": "2008"
+    },
+    {
+        "anomaly": 1.25,
+        "month": 10,
+        "year": "2008"
+    },
+    {
+        "anomaly": 1.39,
+        "month": 11,
+        "year": "2008"
+    },
+    {
+        "anomaly": 0.94,
+        "month": 12,
+        "year": "2008"
+    },
+    {
+        "anomaly": 1.24,
+        "month": 1,
+        "year": "2009"
+    },
+    {
+        "anomaly": 0.8,
+        "month": 2,
+        "year": "2009"
+    },
+    {
+        "anomaly": 0.82,
+        "month": 3,
+        "year": "2009"
+    },
+    {
+        "anomaly": 0.89,
+        "month": 4,
+        "year": "2009"
+    },
+    {
+        "anomaly": 0.86,
+        "month": 5,
+        "year": "2009"
+    },
+    {
+        "anomaly": 0.67,
+        "month": 6,
+        "year": "2009"
+    },
+    {
+        "anomaly": 0.93,
+        "month": 7,
+        "year": "2009"
+    },
+    {
+        "anomaly": 0.92,
+        "month": 8,
+        "year": "2009"
+    },
+    {
+        "anomaly": 1.2,
+        "month": 9,
+        "year": "2009"
+    },
+    {
+        "anomaly": 1.02,
+        "month": 10,
+        "year": "2009"
+    },
+    {
+        "anomaly": 1.37,
+        "month": 11,
+        "year": "2009"
+    },
+    {
+        "anomaly": 0.86,
+        "month": 12,
+        "year": "2009"
+    },
+    {
+        "anomaly": 1.03,
+        "month": 1,
+        "year": "2010"
+    },
+    {
+        "anomaly": 1.24,
+        "month": 2,
+        "year": "2010"
+    },
+    {
+        "anomaly": 1.54,
+        "month": 3,
+        "year": "2010"
+    },
+    {
+        "anomaly": 1.52,
+        "month": 4,
+        "year": "2010"
+    },
+    {
+        "anomaly": 1.23,
+        "month": 5,
+        "year": "2010"
+    },
+    {
+        "anomaly": 0.99,
+        "month": 6,
+        "year": "2010"
+    },
+    {
+        "anomaly": 0.9,
+        "month": 7,
+        "year": "2010"
+    },
+    {
+        "anomaly": 0.97,
+        "month": 8,
+        "year": "2010"
+    },
+    {
+        "anomaly": 0.92,
+        "month": 9,
+        "year": "2010"
+    },
+    {
+        "anomaly": 1.26,
+        "month": 10,
+        "year": "2010"
+    },
+    {
+        "anomaly": 1.69,
+        "month": 11,
+        "year": "2010"
+    },
+    {
+        "anomaly": 0.83,
+        "month": 12,
+        "year": "2010"
+    },
+    {
+        "anomaly": 0.93,
+        "month": 1,
+        "year": "2011"
+    },
+    {
+        "anomaly": 0.78,
+        "month": 2,
+        "year": "2011"
+    },
+    {
+        "anomaly": 1.26,
+        "month": 3,
+        "year": "2011"
+    },
+    {
+        "anomaly": 1.19,
+        "month": 4,
+        "year": "2011"
+    },
+    {
+        "anomaly": 0.82,
+        "month": 5,
+        "year": "2011"
+    },
+    {
+        "anomaly": 0.95,
+        "month": 6,
+        "year": "2011"
+    },
+    {
+        "anomaly": 1.27,
+        "month": 7,
+        "year": "2011"
+    },
+    {
+        "anomaly": 1.25,
+        "month": 8,
+        "year": "2011"
+    },
+    {
+        "anomaly": 1.03,
+        "month": 9,
+        "year": "2011"
+    },
+    {
+        "anomaly": 1.44,
+        "month": 10,
+        "year": "2011"
+    },
+    {
+        "anomaly": 1.06,
+        "month": 11,
+        "year": "2011"
+    },
+    {
+        "anomaly": 1.21,
+        "month": 12,
+        "year": "2011"
+    },
+    {
+        "anomaly": 0.77,
+        "month": 1,
+        "year": "2012"
+    },
+    {
+        "anomaly": 0.89,
+        "month": 2,
+        "year": "2012"
+    },
+    {
+        "anomaly": 0.92,
+        "month": 3,
+        "year": "2012"
+    },
+    {
+        "anomaly": 1.44,
+        "month": 4,
+        "year": "2012"
+    },
+    {
+        "anomaly": 1.32,
+        "month": 5,
+        "year": "2012"
+    },
+    {
+        "anomaly": 1.04,
+        "month": 6,
+        "year": "2012"
+    },
+    {
+        "anomaly": 0.87,
+        "month": 7,
+        "year": "2012"
+    },
+    {
+        "anomaly": 0.86,
+        "month": 8,
+        "year": "2012"
+    },
+    {
+        "anomaly": 1.18,
+        "month": 9,
+        "year": "2012"
+    },
+    {
+        "anomaly": 1.33,
+        "month": 10,
+        "year": "2012"
+    },
+    {
+        "anomaly": 1.43,
+        "month": 11,
+        "year": "2012"
+    },
+    {
+        "anomaly": 0.67,
+        "month": 12,
+        "year": "2012"
+    },
+    {
+        "anomaly": 1.23,
+        "month": 1,
+        "year": "2013"
+    },
+    {
+        "anomaly": 0.96,
+        "month": 2,
+        "year": "2013"
+    },
+    {
+        "anomaly": 1.1,
+        "month": 3,
+        "year": "2013"
+    },
+    {
+        "anomaly": 0.73,
+        "month": 4,
+        "year": "2013"
+    },
+    {
+        "anomaly": 0.98,
+        "month": 5,
+        "year": "2013"
+    },
+    {
+        "anomaly": 1.03,
+        "month": 6,
+        "year": "2013"
+    },
+    {
+        "anomaly": 0.69,
+        "month": 7,
+        "year": "2013"
+    },
+    {
+        "anomaly": 0.95,
+        "month": 8,
+        "year": "2013"
+    },
+    {
+        "anomaly": 1.25,
+        "month": 9,
+        "year": "2013"
+    },
+    {
+        "anomaly": 1.02,
+        "month": 10,
+        "year": "2013"
+    },
+    {
+        "anomaly": 1.44,
+        "month": 11,
+        "year": "2013"
+    },
+    {
+        "anomaly": 1.25,
+        "month": 12,
+        "year": "2013"
+    },
+    {
+        "anomaly": 1.26,
+        "month": 1,
+        "year": "2014"
+    },
+    {
+        "anomaly": 0.7,
+        "month": 2,
+        "year": "2014"
+    },
+    {
+        "anomaly": 1.51,
+        "month": 3,
+        "year": "2014"
+    },
+    {
+        "anomaly": 1.43,
+        "month": 4,
+        "year": "2014"
+    },
+    {
+        "anomaly": 1.38,
+        "month": 5,
+        "year": "2014"
+    },
+    {
+        "anomaly": 0.84,
+        "month": 6,
+        "year": "2014"
+    },
+    {
+        "anomaly": 0.54,
+        "month": 7,
+        "year": "2014"
+    },
+    {
+        "anomaly": 1.12,
+        "month": 8,
+        "year": "2014"
+    },
+    {
+        "anomaly": 1.26,
+        "month": 9,
+        "year": "2014"
+    },
+    {
+        "anomaly": 1.21,
+        "month": 10,
+        "year": "2014"
+    },
+    {
+        "anomaly": 0.89,
+        "month": 11,
+        "year": "2014"
+    },
+    {
+        "anomaly": 1.23,
+        "month": 12,
+        "year": "2014"
+    },
+    {
+        "anomaly": 1.33,
+        "month": 1,
+        "year": "2015"
+    },
+    {
+        "anomaly": 1.61,
+        "month": 2,
+        "year": "2015"
+    },
+    {
+        "anomaly": 1.75,
+        "month": 3,
+        "year": "2015"
+    },
+    {
+        "anomaly": 1.13,
+        "month": 4,
+        "year": "2015"
+    },
+    {
+        "anomaly": 1.05,
+        "month": 5,
+        "year": "2015"
+    },
+    {
+        "anomaly": 1.16,
+        "month": 6,
+        "year": "2015"
+    },
+    {
+        "anomaly": 0.81,
+        "month": 7,
+        "year": "2015"
+    },
+    {
+        "anomaly": 0.98,
+        "month": 8,
+        "year": "2015"
+    },
+    {
+        "anomaly": 1.13,
+        "month": 9,
+        "year": "2015"
+    },
+    {
+        "anomaly": 1.71,
+        "month": 10,
+        "year": "2015"
+    },
+    {
+        "anomaly": 1.59,
+        "month": 11,
+        "year": "2015"
+    },
+    {
+        "anomaly": 1.8,
+        "month": 12,
+        "year": "2015"
+    },
+    {
+        "anomaly": 1.99,
+        "month": 1,
+        "year": "2016"
+    },
+    {
+        "anomaly": 2.5,
+        "month": 2,
+        "year": "2016"
+    },
+    {
+        "anomaly": 2.49,
+        "month": 3,
+        "year": "2016"
+    },
+    {
+        "anomaly": 1.93,
+        "month": 4,
+        "year": "2016"
+    },
+    {
+        "anomaly": 1.49,
+        "month": 5,
+        "year": "2016"
+    },
+    {
+        "anomaly": 0.95,
+        "month": 6,
+        "year": "2016"
+    },
+    {
+        "anomaly": 1.03,
+        "month": 7,
+        "year": "2016"
+    },
+    {
+        "anomaly": 1.4,
+        "month": 8,
+        "year": "2016"
+    },
+    {
+        "anomaly": 1.35,
+        "month": 9,
+        "year": "2016"
+    },
+    {
+        "anomaly": 1.3,
+        "month": 10,
+        "year": "2016"
+    },
+    {
+        "anomaly": 1.68,
+        "month": 11,
+        "year": "2016"
+    },
+    {
+        "anomaly": 1.52,
+        "month": 12,
+        "year": "2016"
+    },
+    {
+        "anomaly": 1.81,
+        "month": 1,
+        "year": "2017"
+    },
+    {
+        "anomaly": 1.96,
+        "month": 2,
+        "year": "2017"
+    },
+    {
+        "anomaly": 2.13,
+        "month": 3,
+        "year": "2017"
+    },
+    {
+        "anomaly": 1.52,
+        "month": 4,
+        "year": "2017"
+    },
+    {
+        "anomaly": 1.33,
+        "month": 5,
+        "year": "2017"
+    },
+    {
+        "anomaly": 0.9,
+        "month": 6,
+        "year": "2017"
+    },
+    {
+        "anomaly": 0.99,
+        "month": 7,
+        "year": "2017"
+    },
+    {
+        "anomaly": 1.19,
+        "month": 8,
+        "year": "2017"
+    },
+    {
+        "anomaly": 1.17,
+        "month": 9,
+        "year": "2017"
+    },
+    {
+        "anomaly": 1.48,
+        "month": 10,
+        "year": "2017"
+    },
+    {
+        "anomaly": 1.57,
+        "month": 11,
+        "year": "2017"
+    },
+    {
+        "anomaly": 1.9,
+        "month": 12,
+        "year": "2017"
+    },
+    {
+        "anomaly": 1.39,
+        "month": 1,
+        "year": "2018"
+    },
+    {
+        "anomaly": 1.6,
+        "month": 2,
+        "year": "2018"
+    },
+    {
+        "anomaly": 1.62,
+        "month": 3,
+        "year": "2018"
+    },
+    {
+        "anomaly": 1.43,
+        "month": 4,
+        "year": "2018"
+    },
+    {
+        "anomaly": 1.17,
+        "month": 5,
+        "year": "2018"
+    },
+    {
+        "anomaly": 1.0,
+        "month": 6,
+        "year": "2018"
+    },
+    {
+        "anomaly": 1.1,
+        "month": 7,
+        "year": "2018"
+    },
+    {
+        "anomaly": 0.95,
+        "month": 8,
+        "year": "2018"
+    },
+    {
+        "anomaly": 1.08,
+        "month": 9,
+        "year": "2018"
+    },
+    {
+        "anomaly": 1.78,
+        "month": 10,
+        "year": "2018"
+    },
+    {
+        "anomaly": 1.11,
+        "month": 11,
+        "year": "2018"
+    },
+    {
+        "anomaly": 1.41,
+        "month": 12,
+        "year": "2018"
+    },
+    {
+        "anomaly": 1.42,
+        "month": 1,
+        "year": "2019"
+    },
+    {
+        "anomaly": 1.37,
+        "month": 2,
+        "year": "2019"
+    },
+    {
+        "anomaly": 2.14,
+        "month": 3,
+        "year": "2019"
+    },
+    {
+        "anomaly": 1.68,
+        "month": 4,
+        "year": "2019"
+    },
+    {
+        "anomaly": 1.29,
+        "month": 5,
+        "year": "2019"
+    },
+    {
+        "anomaly": 1.16,
+        "month": 6,
+        "year": "2019"
+    },
+    {
+        "anomaly": 1.17,
+        "month": 7,
+        "year": "2019"
+    },
+    {
+        "anomaly": 1.17,
+        "month": 8,
+        "year": "2019"
+    },
+    {
+        "anomaly": 1.48,
+        "month": 9,
+        "year": "2019"
+    },
+    {
+        "anomaly": 1.64,
+        "month": 10,
+        "year": "2019"
+    },
+    {
+        "anomaly": 1.54,
+        "month": 11,
+        "year": "2019"
+    },
+    {
+        "anomaly": 1.85,
+        "month": 12,
+        "year": "2019"
+    },
+    {
+        "anomaly": 1.87,
+        "month": 1,
+        "year": "2020"
+    },
+    {
+        "anomaly": 2.13,
+        "month": 2,
+        "year": "2020"
+    },
+    {
+        "anomaly": 1.93,
+        "month": 3,
+        "year": "2020"
+    },
+    {
+        "anomaly": 1.87,
+        "month": 4,
+        "year": "2020"
+    },
+    {
+        "anomaly": 1.51,
+        "month": 5,
+        "year": "2020"
+    },
+    {
+        "anomaly": 1.3,
+        "month": 6,
+        "year": "2020"
+    },
+    {
+        "anomaly": 1.22,
+        "month": 7,
+        "year": "2020"
+    },
+    {
+        "anomaly": 1.21,
+        "month": 8,
+        "year": "2020"
+    },
+    {
+        "anomaly": 1.6,
+        "month": 9,
+        "year": "2020"
+    },
+    {
+        "anomaly": 1.49,
+        "month": 10,
+        "year": "2020"
+    },
+    {
+        "anomaly": 2.05,
+        "month": 11,
+        "year": "2020"
+    },
+    {
+        "anomaly": 1.46,
+        "month": 12,
+        "year": "2020"
+    },
+    {
+        "anomaly": 1.46,
+        "month": 1,
+        "year": "2021"
+    },
+    {
+        "anomaly": 0.89,
+        "month": 2,
+        "year": "2021"
+    },
+    {
+        "anomaly": 1.57,
+        "month": 3,
+        "year": "2021"
+    },
+    {
+        "anomaly": 1.23,
+        "month": 4,
+        "year": "2021"
+    },
+    {
+        "anomaly": 1.22,
+        "month": 5,
+        "year": "2021"
+    },
+    {
+        "anomaly": 1.25,
+        "month": 6,
+        "year": "2021"
+    },
+    {
+        "anomaly": 1.35,
+        "month": 7,
+        "year": "2021"
+    },
+    {
+        "anomaly": 1.16,
+        "month": 8,
+        "year": "2021"
+    },
+    {
+        "anomaly": 1.42,
+        "month": 9,
+        "year": "2021"
+    },
+    {
+        "anomaly": 1.72,
+        "month": 10,
+        "year": "2021"
+    },
+    {
+        "anomaly": 1.59,
+        "month": 11,
+        "year": "2021"
+    },
+    {
+        "anomaly": 1.41,
+        "month": 12,
+        "year": "2021"
+    },
+    {
+        "anomaly": 1.51,
+        "month": 1,
+        "year": "2022"
+    },
+    {
+        "anomaly": 1.52,
+        "month": 2,
+        "year": "2022"
+    },
+    {
+        "anomaly": 2.12,
+        "month": 3,
+        "year": "2022"
+    },
+    {
+        "anomaly": 1.47,
+        "month": 4,
+        "year": "2022"
+    },
+    {
+        "anomaly": 1.33,
+        "month": 5,
+        "year": "2022"
+    },
+    {
+        "anomaly": 1.3,
+        "month": 6,
+        "year": "2022"
+    },
+    {
+        "anomaly": 1.31,
+        "month": 7,
+        "year": "2022"
+    },
+    {
+        "anomaly": 1.36,
+        "month": 8,
+        "year": "2022"
+    },
+    {
+        "anomaly": 1.31,
+        "month": 9,
+        "year": "2022"
+    },
+    {
+        "anomaly": 1.64,
+        "month": 10,
+        "year": "2022"
+    },
+    {
+        "anomaly": 0.94,
+        "month": 11,
+        "year": "2022"
+    },
+    {
+        "anomaly": 1.21,
+        "month": 12,
+        "year": "2022"
+    },
+    {
+        "anomaly": 1.35,
+        "month": 1,
+        "year": "2023"
+    },
+    {
+        "anomaly": 1.72,
+        "month": 2,
+        "year": "2023"
+    },
+    {
+        "anomaly": 2.19,
+        "month": 3,
+        "year": "2023"
+    },
+    {
+        "anomaly": 1.25,
+        "month": 4,
+        "year": "2023"
+    },
+    {
+        "anomaly": 1.2,
+        "month": 5,
+        "year": "2023"
+    },
+    {
+        "anomaly": 1.35,
+        "month": 6,
+        "year": "2023"
+    }
+]
